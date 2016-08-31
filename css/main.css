@@ -1,0 +1,50 @@
+html{
+	height:100%;
+}
+
+body{
+	margin:0px;
+	overflow-y:hidden;
+}
+
+#header{
+	width:100%;
+}
+
+#logo-line{
+	display:block;
+	border:1px solid white;
+	position:relative;
+	margin:0px auto;
+}
+
+#scroll-down{
+	display:block;
+	color:#16a085;
+	border:1px solid #16a085;
+	font-family: 'Open Sans', sans-serif;
+	text-align:center;
+	cursor:pointer;
+}
+
+#scroll-down:hover{
+	color:white;
+	background-color:#16a085;
+}
+
+#scroll-down p{
+	margin-top:20px;
+}
+
+/*=========================Remove*/
+
+#container-2{
+	border:1px solid black;
+}
+
+#container-2 h1{
+	margin-top:25%;
+	text-align:center;
+}
+
+/*=========================Remove*/

@@ -1,0 +1,316 @@
+@media screen and (max-width: 1440px){
+	#header{
+		height:650px;
+	}
+
+	#signup-form{
+		width:30%;
+		margin:0px auto;
+		margin-top:-150px;
+		height:180px;
+	}
+
+	.signup{
+		width:91.2%;
+		font-size:14px;
+		height:15%;
+	}
+
+	#brand-text{
+		width:600px;
+		display:block;
+		margin:0px auto;
+		margin-top:-760px;
+	}
+
+	#logo{
+		width:200px;
+		display:block;
+		margin:0px auto;
+		margin-top:50px;
+	}
+
+	#logo-line{
+		width:70%;
+		top:-90px;
+	}
+
+	#sign-up, #login{
+		width:49.5%;
+	}
+
+	#scroll-down{
+		width:15%;
+		height:70px;
+		margin:0px auto;
+		margin-top:60px;
+		font-size:17px;
+	}
+}
+
+@media screen and (max-width: 1322px){
+	#signup-form{
+		width:34%;
+	}
+
+	.signup{
+		width:91.8%;
+	}
+}
+
+@media screen and (max-width: 1220px){
+	#header{
+		height:600px;
+	}
+
+	#signup-form{
+		width:42%;
+		margin:0px auto;
+		margin-top:-130px;
+	}
+
+	.signup{
+		width:92.5%;
+	}
+
+	#brand-text{
+		width:500px;
+		display:block;
+		margin:0px auto;
+		margin-top:-700px;
+	}
+
+	#logo-line{
+		width:60%;
+	}
+
+	#scroll-down{
+		width:20%;
+		height:70px;
+		margin:0px auto;
+		margin-top:80px;
+	}
+}
+
+@media screen and (max-width: 1000px){
+	#header{
+		height:500px;
+	}
+
+	#signup-form{
+		width:42%;
+		margin:0px auto;
+		margin-top:-90px;
+	}
+
+	.signup{
+		font-size:12px;
+	}
+
+	#brand-text{
+		width:400px;
+		display:block;
+		margin:0px auto;
+		margin-top:-570px;
+	}
+
+	#logo{
+		width:150px;
+		display:block;
+		margin:0px auto;
+		margin-top:20px;
+	}
+
+	#logo-line{
+		top:-68px;
+	}
+
+	#scroll-down{
+		width:25%;
+		height:70px;
+		margin:0px auto;
+		margin-top:120px;
+	}
+}
+
+@media screen and (max-width: 948px){
+	#signup-form{
+		width:53%;
+		margin:0px auto;
+		margin-top:-90px;
+	}
+
+	.signup{
+		width:92.6%;
+	}
+}
+
+@media screen and (max-width: 780px){
+	#header{
+		height:450px;
+	}
+
+	#signup-form{
+		width:73%;
+		margin:0px auto;
+		margin-top:-70px;
+	}
+
+	.signup{
+		width:93.5%;
+		font-size:10px;
+	}
+
+	#brand-text{
+		width:300px;
+		display:block;
+		margin:0px auto;
+		margin-top:-500px;
+	}
+
+	#logo{
+		width:120px;
+		display:block;
+		margin:0px auto;
+		margin-top:20px;
+	}
+
+	#logo-line{
+		top:-54px;
+	}
+
+	#scroll-down{
+		width:30%;
+		height:70px;
+		margin:0px auto;
+		margin-top:150px;
+	}
+}
+
+@media screen and (max-width: 560px){
+	#header{
+		height:350px;
+	}
+
+	#signup-form{
+		width:67%;
+		margin:0px auto;
+		margin-top:-68px;
+		height:140px;
+	}
+
+	.signup{
+		width:90.4%;
+	}
+
+	#brand-text{
+		width:300px;
+		display:block;
+		margin:0px auto;
+		margin-top:-415px;
+	}
+
+	#logo{
+		width:100px;
+		display:block;
+		margin:0px auto;
+		margin-top:8px;
+	}
+
+	#logo-line{
+		top:-45px;
+	}
+
+	#sign-up, #login{
+		width:49.4%;
+	}
+
+	#scroll-down{
+		width:40%;
+		height:65px;
+		margin:0px auto;
+		margin-top:180px;
+		font-size:14px;
+	}
+}
+
+@media screen and (max-width: 495px){
+	#signup-form{
+		width:54%;
+		margin:0px auto;
+		margin-top:-45px;
+		height:100px;
+	}
+
+	.signup{
+		width:86.1%;
+		font-size:8px;
+		height:19%;
+	}
+
+	#brand-text{
+		width:200px;
+		display:block;
+		margin:0px auto;
+		margin-top:-375px;
+	}
+
+	#sign-up, #login{
+		width:49%;
+	}
+
+	#logo{
+		width:90px;
+		display:block;
+		margin:0px auto;
+		margin-top:35px;
+	}
+
+	#logo-line{
+		top:-41px;
+	}
+
+	#scroll-down{
+		width:45%;
+		height:60px;
+		margin:0px auto;
+		margin-top:200px;
+		font-size:12px;
+	}
+}
+
+@media screen and (max-width: 370px){
+	#signup-form{
+		width:60%;
+		margin:0px auto;
+		margin-top:-45px;
+		height:100px;
+	}
+
+	.signup{
+		width:84%;
+		height:19.1%;
+	}
+
+	#brand-text{
+		width:189px;
+		display:block;
+		margin:0px auto;
+		margin-top:-350px;
+	}
+
+	#sign-up, #login{
+		width:49%;
+	}
+
+	#logo{
+		width:70px;
+		display:block;
+		margin:0px auto;
+		margin-top:50px;
+	}
+	
+	#logo-line{
+		top:-32px;
+	}
+}
